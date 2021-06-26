@@ -9,7 +9,6 @@ cmake --build .
 ```
 
 ## How to run
-**1. Show help option**
 ```
 ./bin/main --help
 

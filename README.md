@@ -27,4 +27,5 @@ sudo ./b2 toolset=gcc -j4 install`
 ### [Chapter 1:](chapter_01/README.md)
 
 - [1. Program with option base](chapter_01/recipe_01/README.md)
+- [2. Program with option short](chapter_01/recipe_02/README.md)
 
