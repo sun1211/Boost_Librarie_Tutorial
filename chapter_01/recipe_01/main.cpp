@@ -1,6 +1,7 @@
 #include <boost/program_options.hpp>
 #include <iostream>
 
+//make an alias for the boost::program_options namespace
 namespace opt = boost::program_options;
 
 int main(int argc, char *argv[])
@@ -28,6 +29,7 @@ int main(int argc, char *argv[])
     // Must be called after all the parsing and storing
     opt::notify(vm);
 
+    //some code for processing the help option
     if (vm.count("help")) {
         std::cout << desc << "\n";
         return 1;
