@@ -17,7 +17,7 @@ int main() {
 
 
 
-void example_func() { std::cout << "sdfsdf\n";
+void example_func() {
     // Default constructor will construct an instance of boost::blank
     boost::variant<boost::blank /*empty state*/, int, const char*, std::string> var;
 
@@ -28,7 +28,7 @@ void example_func() { std::cout << "sdfsdf\n";
     assert(var.which() != 0);
 }
 
-void example_func1() {std::cout << "sdfsdf sddrfs\n";
+void example_func1() {
     boost::variant<int, std::string> variable(0);
 
     // Following method may throw a boost::bad_get
