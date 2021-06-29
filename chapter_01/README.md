@@ -7,3 +7,4 @@
 - [5. Using a safer way to work with a container that stores multiple chosen types with Boost.any](recipe_05/README.md)
 - [6. Using a safer way to work with a container that stores multiple chosen types with Boost.Variant](recipe_06/README.md)
 - [7. Returning a value or flag where there is no value with Boost.Optional](recipe_07/README.md)
+- [8. Returning an array from a function with Boost.array](recipe_08/README.md)
