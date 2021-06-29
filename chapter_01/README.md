@@ -4,3 +4,5 @@
 - [2. Program with option short](recipe_02/README.md)
 - [3. Storing any value in a container/variable with any](recipe_03/README.md)
 - [4. Storing multiple chosen types in a container/variable](recipe_04/README.md)
+- [5. Using a safer way to work with a container that stores multiple chosen types with Boost.any](recipe_05/README.md)
+- [6. Using a safer way to work with a container that stores multiple chosen types with Boost.Variant](recipe_06/README.md)

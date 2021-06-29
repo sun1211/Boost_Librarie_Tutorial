@@ -30,4 +30,6 @@ sudo ./b2 toolset=gcc -j4 install`
 - [2. Program with option short](chapter_01/recipe_02/README.md)
 - [3. Storing any value in a container/variable with any](chapter_01/recipe_03/README.md)
 - [4. Storing multiple chosen types in a container/variable](chapter_01/recipe_04/README.md)
+- [5. Using a safer way to work with a container that stores multiple chosen types with Boost.any](chapter_01/recipe_05/README.md)
+- [6. Using a safer way to work with a container that stores multiple chosen types with Boost.Variant](chapter_01/recipe_06/README.md)
 
