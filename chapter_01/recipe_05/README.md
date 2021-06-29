@@ -16,5 +16,5 @@ cmake --build .
 ```
 ./bin/main
 
-Wow! That is great!
+Sum of arithmetic types in database row is: 20.1
 ```

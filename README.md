@@ -32,4 +32,5 @@ sudo ./b2 toolset=gcc -j4 install`
 - [4. Storing multiple chosen types in a container/variable](chapter_01/recipe_04/README.md)
 - [5. Using a safer way to work with a container that stores multiple chosen types with Boost.any](chapter_01/recipe_05/README.md)
 - [6. Using a safer way to work with a container that stores multiple chosen types with Boost.Variant](chapter_01/recipe_06/README.md)
+- [7. Returning a value or flag where there is no value with Boost.Optional](chapter_01/recipe_07/README.md)
 
