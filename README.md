@@ -36,4 +36,5 @@ sudo ./b2 toolset=gcc -j4 install`
 - [8. Returning an array from a function with Boost.array](chapter_01/recipe_08/README.md)
 - [9. Combining multiple values into one with Boost.Tuple](chapter_01/recipe_09/README.md)
 - [10. Binding and reordering function parameters](chapter_01/recipe_10/README.md)
+- [11. Getting a human-readable type name](chapter_01/recipe_11/README.md)
 

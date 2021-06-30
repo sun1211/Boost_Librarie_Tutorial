@@ -10,3 +10,4 @@
 - [8. Returning an array from a function with Boost.array](recipe_08/README.md)
 - [9. Combining multiple values into one with Boost.Tuple](recipe_09/README.md)
 - [10. Binding and reordering function parameters](recipe_10/README.md)
+- [11. Getting a human-readable type name](recipe_11/README.md)
