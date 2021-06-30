@@ -39,4 +39,6 @@ sudo ./b2 toolset=gcc -j4 install`
 - [11. Getting a human-readable type name](chapter_01/recipe_11/README.md)
 - [12. Using the C++11 move emulation](chapter_01/recipe_12/README.md)
 - [13. Making a noncopyable class](chapter_01/recipe_13/README.md)
+- [14. Making a noncopyable but movable class](chapter_01/recipe_14/README.md)
+- [15. Using C++14 and C++11 algorithms](chapter_01/recipe_15/README.md)
 

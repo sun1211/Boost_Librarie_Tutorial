@@ -13,3 +13,5 @@
 - [11. Getting a human-readable type name](recipe_11/README.md)
 - [12. Using the C++11 move emulation](recipe_12/README.md)
 - [13. Making a noncopyable class](recipe_13/README.md)
+- [14. Making a noncopyable but movable class](recipe_14/README.md)
+- [15. Using C++14 and C++11 algorithms](recipe_15/README.md)
