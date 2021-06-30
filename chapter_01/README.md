@@ -11,3 +11,5 @@
 - [9. Combining multiple values into one with Boost.Tuple](recipe_09/README.md)
 - [10. Binding and reordering function parameters](recipe_10/README.md)
 - [11. Getting a human-readable type name](recipe_11/README.md)
+- [12. Using the C++11 move emulation](recipe_12/README.md)
+- [13. Making a noncopyable class](recipe_13/README.md)
