@@ -42,3 +42,7 @@ sudo ./b2 toolset=gcc -j4 install`
 - [14. Making a noncopyable but movable class](chapter_01/recipe_14/README.md)
 - [15. Using C++14 and C++11 algorithms](chapter_01/recipe_15/README.md)
 
+### [Chapter 2:](chapter_02/README.md)
+
+- [1. Managing local pointers to classes that do not leave scope](chapter_02/recipe_01/README.md)
+
