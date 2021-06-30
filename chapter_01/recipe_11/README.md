@@ -4,6 +4,10 @@ The **Boost.TypeIndex** library has a lot of workarounds for different compilers
 
 **cvr** in *boost::typeindex::type_id_with_cvr* stands for const, volatile, and reference. That makes sure that the type won't be decayed.
 
+All the **boost::typeindex::type_id*** functions return instances of *boost::typeindex::type_index*. It is very close to *std::type_index*; however, it additionally, it has a *raw_name()* method for getting a raw type name, and *pretty_name()* for getting human-readable type name.
+
+Unlike the *standard library's typeid()*, some classes from *Boost.TypeIndex* are usable with constexpr. It means that you can get a textual representation of your type at compile time if you use a specific *boost::typeindex::ctti_type_index class*.
+
 ## How to build
 ```
 mkdir build
