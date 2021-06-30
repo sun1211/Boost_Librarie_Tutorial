@@ -9,3 +9,4 @@
 - [7. Returning a value or flag where there is no value with Boost.Optional](recipe_07/README.md)
 - [8. Returning an array from a function with Boost.array](recipe_08/README.md)
 - [9. Combining multiple values into one with Boost.Tuple](recipe_09/README.md)
+- [10. Binding and reordering function parameters](recipe_10/README.md)
