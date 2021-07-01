@@ -41,7 +41,7 @@ str == unique_ptr
 
 Those classes are extremely fast. Compiler optimizes the code that uses scoped_ptr and unique_ptr to the machine code, which involve no additional overhead compared to the handwritten manual memory management code.
 C++11 has a *std::unique_ptr<T, D>* class that uniquely owns the resource and behaves exactly like *boost::movelib::unique_ptr<T, D>*.
-The C++ standard library has no *boost::scoped_ptr<T>*, but you could use *const std::unique_ptr<T>* instead. The only difference is that b*oost::scoped_ptr<T>* still can call *reset()* unlike const *std::unique_ptr<T>*.
+The C++ standard library has no *boost::scoped_ptr<T>*, but you could use *const std::unique_ptr<T>* instead. The only difference is that *boost::scoped_ptr<T>* still can call *reset()* unlike const *std::unique_ptr<T>*.
 
 ## How to build
 ```

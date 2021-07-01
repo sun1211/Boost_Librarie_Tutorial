@@ -16,8 +16,8 @@ elseif(NOT CMAKE_CXX_STANDARD)
    set(CMAKE_CXX_STANDARD_REQUIRED ON)
 endif()
 
-find_package(Boost 1.60 REQUIRED)
+find_package(Boost 1.60 REQUIRED COMPONENTS thread system chrono)
 
 add_executable(main main.cpp)
 
-target_link_libraries(main)
+target_link_libraries(main Boost::thread Boost::system Boost::chrono)
