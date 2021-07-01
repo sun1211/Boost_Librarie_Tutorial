@@ -45,5 +45,6 @@ sudo ./b2 toolset=gcc -j4 install`
 ### [Chapter 2:](chapter_02/README.md)
 
 - [1. Managing local pointers to classes that do not leave scope](chapter_02/recipe_01/README.md)
-- [1. Reference counting of pointers to classes used across functions](chapter_02/recipe_02/README.md)
+- [2. Reference counting of pointers to classes used across functions](chapter_02/recipe_02/README.md)
+- [3. Managing pointers to arrays that do not leave scope](chapter_02/recipe_03/README.md)
 
