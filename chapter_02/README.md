@@ -7,3 +7,4 @@
 - [5. Storing any functional objects in a variable](recipe_05/README.md)
 - [7. Passing C++11 lambda functions in a variable](recipe_07/README.md)
 - [8. Containers of pointers with Boost.PointerContainer](recipe_08/README.md)
+- [9. Do it at scope exit with Boost.scope_exit](recipe_09/README.md)

@@ -52,4 +52,5 @@ sudo ./b2 toolset=gcc -j4 install`
 - [6. Passing function pointer in a variable](chapter_02/recipe_06/README.md)
 - [7. Passing C++11 lambda functions in a variable](chapter_02/recipe_07/README.md)
 - [8. Containers of pointers with Boost.PointerContainer](chapter_02/recipe_08/README.md)
+- [9. Do it at scope exit with Boost.scope_exit](chapter_02/recipe_09/README.md)
 
