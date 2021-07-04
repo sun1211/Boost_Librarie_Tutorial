@@ -5,4 +5,4 @@
 - [3. Managing pointers to arrays that do not leave scope](recipe_03/README.md)
 - [4. Reference counting of pointers to arrays used across functions](recipe_04/README.md)
 - [5. Storing any functional objects in a variable](recipe_05/README.md)
-- [6. Passing function pointer in a variable](recipe_06/README.md)
+- [7. Passing C++11 lambda functions in a variable](recipe_07/README.md)
