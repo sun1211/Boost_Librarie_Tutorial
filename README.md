@@ -49,4 +49,5 @@ sudo ./b2 toolset=gcc -j4 install`
 - [3. Managing pointers to arrays that do not leave scope](chapter_02/recipe_03/README.md)
 - [4. Reference counting of pointers to arrays used across functions](chapter_02/recipe_04/README.md)
 - [5. Storing any functional objects in a variable](chapter_02/recipe_05/README.md)
+- [6. Passing function pointer in a variable](chapter_02/recipe_06/README.md)
 
