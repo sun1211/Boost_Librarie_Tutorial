@@ -24,7 +24,7 @@ sudo ./b2 toolset=gcc -j4 install`
 ```
 ## Table of contents
 
-### [Chapter 1:](chapter_01/README.md)
+### [Chapter 1: Starting to Write Your Application](chapter_01/README.md)
 
 - [1. Program with option base with Boost.program_options](chapter_01/recipe_01/README.md)
 - [2. Program with option short with Boost.program_options](chapter_01/recipe_02/README.md)
@@ -42,7 +42,7 @@ sudo ./b2 toolset=gcc -j4 install`
 - [14. Making a noncopyable but movable class](chapter_01/recipe_14/README.md)
 - [15. Using C++14 and C++11 algorithms with Boost.algorithm](chapter_01/recipe_15/README.md)
 
-### [Chapter 2:](chapter_02/README.md)
+### [Chapter 2: Managing Resources](chapter_02/README.md)
 
 - [1. Managing local pointers to classes that do not leave scope](chapter_02/recipe_01/README.md)
 - [2. Reference counting of pointers to classes used across functions](chapter_02/recipe_02/README.md)
@@ -53,4 +53,5 @@ sudo ./b2 toolset=gcc -j4 install`
 - [7. Passing C++11 lambda functions in a variable](chapter_02/recipe_07/README.md)
 - [8. Containers of pointers with Boost.PointerContainer](chapter_02/recipe_08/README.md)
 - [9. Do it at scope exit with Boost.scope_exit](chapter_02/recipe_09/README.md)
+- [10. Initializing the base class by the member of the derived class with Boost.Utility](chapter_02/recipe_10/README.md)
 

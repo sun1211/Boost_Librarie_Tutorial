@@ -1,4 +1,4 @@
-# Chapter 1:
+# Chapter 1: Starting to Write Your Application
 
 - [1. Program with option base with Boost.program_options](recipe_01/README.md)
 - [2. Program with option short with Boost.program_options](recipe_02/README.md)

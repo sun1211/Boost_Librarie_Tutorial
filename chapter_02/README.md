@@ -1,4 +1,4 @@
-# Chapter 2:
+# Chapter 2: Managing Resources
 
 - [1. Managing local pointers to classes that do not leave scope](recipe_01/README.md)
 - [2. Reference counting of pointers to classes used across functions](recipe_02/README.md)
@@ -8,3 +8,4 @@
 - [7. Passing C++11 lambda functions in a variable](recipe_07/README.md)
 - [8. Containers of pointers with Boost.PointerContainer](recipe_08/README.md)
 - [9. Do it at scope exit with Boost.scope_exit](recipe_09/README.md)
+- [10. Initializing the base class by the member of the derived class with Boost.Utility](recipe_10/README.md)
