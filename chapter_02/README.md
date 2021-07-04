@@ -6,3 +6,4 @@
 - [4. Reference counting of pointers to arrays used across functions](recipe_04/README.md)
 - [5. Storing any functional objects in a variable](recipe_05/README.md)
 - [7. Passing C++11 lambda functions in a variable](recipe_07/README.md)
+- [8. Containers of pointers with Boost.PointerContainer](recipe_08/README.md)

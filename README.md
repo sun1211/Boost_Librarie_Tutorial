@@ -51,4 +51,5 @@ sudo ./b2 toolset=gcc -j4 install`
 - [5. Storing any functional objects in a variable](chapter_02/recipe_05/README.md)
 - [6. Passing function pointer in a variable](chapter_02/recipe_06/README.md)
 - [7. Passing C++11 lambda functions in a variable](chapter_02/recipe_07/README.md)
+- [8. Containers of pointers with Boost.PointerContainer](chapter_02/recipe_08/README.md)
 
