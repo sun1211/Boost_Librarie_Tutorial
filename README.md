@@ -64,5 +64,6 @@ sudo ./b2 toolset=gcc -j4 install`
 - [5. Converting smart pointers](chapter_03/recipe_05/README.md)
 - [6. Casting polymorphic objects with Boost::polymorphic_cast](chapter_03/recipe_06/README.md)
 - [7. Parsing simple input with Boost.Spirit](chapter_03/recipe_07/README.md)
+- [8. Parsing complex input with Boost.Spirit](chapter_03/recipe_08/README.md)
 
 

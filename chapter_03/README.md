@@ -7,3 +7,4 @@
 - [5. Converting smart pointers](recipe_05/README.md)
 - [6. Casting polymorphic objects with Boost::polymorphic_cast](recipe_06/README.md)
 - [7. Parsing simple input with Boost.Spirit](recipe_07/README.md)
+- [8. Parsing complex input with Boost.Spirit](recipe_08/README.md)
