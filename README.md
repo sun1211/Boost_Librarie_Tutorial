@@ -66,4 +66,8 @@ sudo ./b2 toolset=gcc -j4 install`
 - [7. Parsing simple input with Boost.Spirit](chapter_03/recipe_07/README.md)
 - [8. Parsing complex input with Boost.Spirit](chapter_03/recipe_08/README.md)
 
+### [Chapter 4: Compile-Time Tricks](chapter_04/README.md)
+
+- [1. Checking sizes at compile time with Boost.StaticAssert and Boost.TypeTraits](chapter_04/recipe_01/README.md)
+
 
