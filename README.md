@@ -58,5 +58,6 @@ sudo ./b2 toolset=gcc -j4 install`
 ### [Chapter 3: Converting and Casting](chapter_03/README.md)
 
 - [1. Converting strings to numbers with Boost.LexicalCast](chapter_03/recipe_01/README.md)
+- [2. Converting numbers to strings with Boost.LexicalCast](chapter_03/recipe_02/README.md)
 
 
