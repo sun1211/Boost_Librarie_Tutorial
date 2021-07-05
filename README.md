@@ -62,5 +62,6 @@ sudo ./b2 toolset=gcc -j4 install`
 - [3. Converting numbers to numbers with Boost.LexicalCast](chapter_03/recipe_03/README.md)
 - [4. Converting user-defined types to/from strings](chapter_03/recipe_04/README.md)
 - [5. Converting smart pointers](chapter_03/recipe_05/README.md)
+- [6. Casting polymorphic objects](chapter_03/recipe_06/README.md)
 
 
