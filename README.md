@@ -55,3 +55,8 @@ sudo ./b2 toolset=gcc -j4 install`
 - [9. Do it at scope exit with Boost.scope_exit](chapter_02/recipe_09/README.md)
 - [10. Initializing the base class by the member of the derived class with Boost.Utility](chapter_02/recipe_10/README.md)
 
+### [Chapter 3: Converting and Casting](chapter_03/README.md)
+
+- [1. Converting strings to numbers with Boost.LexicalCast](chapter_03/recipe_01/README.md)
+
+
