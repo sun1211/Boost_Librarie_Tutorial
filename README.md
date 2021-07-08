@@ -69,6 +69,7 @@ sudo ./b2 toolset=gcc -j4 install`
 ### [Chapter 4: Compile-Time Tricks](chapter_04/README.md)
 
 - [1. Checking sizes at compile time with Boost.StaticAssert and Boost.TypeTraits](chapter_04/recipe_01/README.md)
-- [2. Enabling function template usage for integral types with Boost.Core and Boost.TypeTraits](chapter_04/recipe_03/README.md)
+- [2. Enabling function template usage for integral types with Boost.Core and Boost.TypeTraits](chapter_04/recipe_02/README.md)
+- [3. Disabling function template usage for real types with Boost.Core and Boost.TypeTraits](chapter_04/recipe_03/README.md)
 
 
