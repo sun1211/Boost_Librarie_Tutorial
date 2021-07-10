@@ -77,5 +77,7 @@ sudo ./b2 toolset=gcc -j4 install`
 - [7. Getting a type of expression in C++03 with Boost.Typeof](chapter_04/recipe_07/README.md)
 
 ### [Chapter 5: Multithreading](chapter_05/README.md)
+
 - [1. Creating a thread of execution](chapter_05/recipe_01/README.md)
+- [2. Syncing access to a common resource use boost::mutex](chapter_05/recipe_02/README.md)
 
