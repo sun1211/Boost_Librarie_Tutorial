@@ -72,5 +72,6 @@ sudo ./b2 toolset=gcc -j4 install`
 - [2. Enabling function template usage for integral types with Boost.Core and Boost.TypeTraits](chapter_04/recipe_02/README.md)
 - [3. Disabling function template usage for real types with Boost.Core and Boost.TypeTraits](chapter_04/recipe_03/README.md)
 - [4. Creating a type from a number](chapter_04/recipe_04/README.md)
+- [5. Implementing a type trait with Boost.TypeTrait](chapter_04/recipe_05/README.md)
 
 
