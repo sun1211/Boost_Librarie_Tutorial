@@ -76,4 +76,6 @@ sudo ./b2 toolset=gcc -j4 install`
 - [6. Selecting an optimal operator for a template parameter with Boost.TypeTrait](chapter_04/recipe_06/README.md)
 - [7. Getting a type of expression in C++03 with Boost.Typeof](chapter_04/recipe_07/README.md)
 
+### [Chapter 5: Multithreading](chapter_05/README.md)
+- [1. Creating a thread of execution](chapter_05/recipe_01/README.md)
 
