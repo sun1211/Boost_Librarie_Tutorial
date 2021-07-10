@@ -43,7 +43,7 @@ void run() {
 ```
 For some people, it may be a surprise, but there is a big chance that shared_i won't be equal to 0:
 ```
-    shared_i == 30000 //depend on compiler
+    shared_i == 30000 //depend on runtime
 ```
 
 Things get even worse in cases when a common resource is a non-trivial class; segmentation faults and memory leaks may (and will) occur.

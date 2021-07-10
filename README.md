@@ -80,4 +80,5 @@ sudo ./b2 toolset=gcc -j4 install`
 
 - [1. Creating a thread of execution](chapter_05/recipe_01/README.md)
 - [2. Syncing access to a common resource use boost::mutex](chapter_05/recipe_02/README.md)
+- [3. Fast access to common resource using atomics](chapter_05/recipe_03/README.md)
 
