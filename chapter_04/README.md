@@ -6,4 +6,5 @@
 - [4. Creating a type from a number](recipe_04/README.md)
 - [5. Implementing a type trait with Boost.TypeTrait](recipe_05/README.md)
 - [6. Selecting an optimal operator for a template parameter with Boost.TypeTrait](recipe_06/README.md)
+- [7. Getting a type of expression in C++03 with Boost.Typeof](recipe_07/README.md)
 

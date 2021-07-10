@@ -74,5 +74,6 @@ sudo ./b2 toolset=gcc -j4 install`
 - [4. Creating a type from a number](chapter_04/recipe_04/README.md)
 - [5. Implementing a type trait with Boost.TypeTrait](chapter_04/recipe_05/README.md)
 - [6. Selecting an optimal operator for a template parameter with Boost.TypeTrait](chapter_04/recipe_06/README.md)
+- [7. Getting a type of expression in C++03 with Boost.Typeof](chapter_04/recipe_07/README.md)
 
 
