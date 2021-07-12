@@ -82,5 +82,6 @@ sudo ./b2 toolset=gcc -j4 install`
 - [2. Syncing access to a common resource use boost::mutex](chapter_05/recipe_02/README.md)
 - [3. Fast access to common resource using atomics](chapter_05/recipe_03/README.md)
 - [4. Creating work_queue class](chapter_05/recipe_04/README.md)
-- [4. Multiple-readers-single-writer lock](chapter_05/recipe_05/README.md)
+- [5. Multiple-readers-single-writer lock](chapter_05/recipe_05/README.md)
+- [6. Creating variables that are unique per thread](chapter_05/recipe_06/README.md)
 
