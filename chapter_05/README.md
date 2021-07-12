@@ -7,4 +7,5 @@
 - [5. Multiple-readers-single-writer lock](recipe_05/README.md)
 - [6. Creating variables that are unique per thread](recipe_06/README.md)
 - [7. Interrupting a thread](recipe_07/README.md)
+- [8. Manipulating a group of threads](recipe_08/README.md)
 
