@@ -84,4 +84,5 @@ sudo ./b2 toolset=gcc -j4 install`
 - [4. Creating work_queue class](chapter_05/recipe_04/README.md)
 - [5. Multiple-readers-single-writer lock](chapter_05/recipe_05/README.md)
 - [6. Creating variables that are unique per thread](chapter_05/recipe_06/README.md)
+- [7. Interrupting a thread](chapter_05/recipe_07/README.md)
 

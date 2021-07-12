@@ -6,4 +6,5 @@
 - [4. Creating work_queue classk](recipe_04/README.md)
 - [5. Multiple-readers-single-writer lock](recipe_05/README.md)
 - [6. Creating variables that are unique per thread](recipe_06/README.md)
+- [7. Interrupting a thread](recipe_07/README.md)
 
