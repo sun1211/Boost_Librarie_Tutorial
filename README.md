@@ -89,3 +89,7 @@ sudo ./b2 toolset=gcc -j4 install`
 - [9. Initializing a shared variable safely](chapter_05/recipe_09/README.md)
 - [10. Locking multiple mutexes](chapter_05/recipe_10/README.md)
 
+### [Chapter 6: Manipulating Tasks](chapter_06/README.md)
+
+- [1. Registering a task for an arbitrary data type processing](chapter_06/recipe_01/README.md)
+
