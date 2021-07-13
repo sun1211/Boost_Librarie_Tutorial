@@ -87,4 +87,5 @@ sudo ./b2 toolset=gcc -j4 install`
 - [7. Interrupting a thread](chapter_05/recipe_07/README.md)
 - [8. Manipulating a group of threads](chapter_05/recipe_08/README.md)
 - [9. Initializing a shared variable safely](chapter_05/recipe_09/README.md)
+- [10. Locking multiple mutexes](chapter_05/recipe_10/README.md)
 

@@ -9,4 +9,5 @@
 - [7. Interrupting a thread](recipe_07/README.md)
 - [8. Manipulating a group of threads](recipe_08/README.md)
 - [9. Initializing a shared variable safely](recipe_09/README.md)
+- [10. Locking multiple mutexes](recipe_10/README.md)
 
