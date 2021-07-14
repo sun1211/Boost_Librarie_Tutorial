@@ -59,4 +59,5 @@ cmake --build .
 ```
 ./bin/main
 
+Exception: It works!
 ```

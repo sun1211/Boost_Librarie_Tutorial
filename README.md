@@ -15,12 +15,12 @@ sudo make -j4 install
 **2. Install Boost**
 ```
 cd ~
-wget https://dl.bintray.com/boostorg/release/1.70.0/source/boost_1_70_0.tar.gz
-tar xf boost_1_70_0.tar.gz
-cd boost_1_70_0
+wget https://boostorg.jfrog.io/artifactory/main/release/1.69.0/source/boost_1_69_0.tar.gz
+tar xf boost_1_69_0.tar.gz
+cd boost_1_69_0
 ./bootstrap.sh
 ./b2 ... cxxflags="-std=c++0x -stdlib=libc++" linkflags="-stdlib=libc++" ...
-sudo ./b2 toolset=gcc -j4 install`
+sudo ./b2 toolset=gcc -j4 install
 ```
 ## Table of contents
 
@@ -93,4 +93,5 @@ sudo ./b2 toolset=gcc -j4 install`
 
 - [1. Registering a task for an arbitrary data type processing](chapter_06/recipe_01/README.md)
 - [2. Making timers and processing timer events as tasks](chapter_06/recipe_02/README.md)
+- [3. Network communication as a task](chapter_06/recipe_03/README.md)
 
