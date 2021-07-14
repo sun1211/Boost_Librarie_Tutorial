@@ -92,4 +92,5 @@ sudo ./b2 toolset=gcc -j4 install`
 ### [Chapter 6: Manipulating Tasks](chapter_06/README.md)
 
 - [1. Registering a task for an arbitrary data type processing](chapter_06/recipe_01/README.md)
+- [2. Making timers and processing timer events as tasks](chapter_06/recipe_02/README.md)
 
