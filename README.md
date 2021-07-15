@@ -100,3 +100,8 @@ sudo ./b2 toolset=gcc -j4 install
 - [7. Storing an exception and making a task from it](chapter_06/recipe_07/README.md)
 - [8. Getting and processing system signals as tasks](chapter_06/recipe_08/README.md)
 
+### [Chapter 7: Manipulating Strings](chapter_07/README.md)
+
+- [1. Changing cases and case-insensitive comparison](chapter_07/recipe_01/README.md)
+
+
