@@ -93,5 +93,6 @@ sudo ./b2 toolset=gcc -j4 install
 
 - [1. Registering a task for an arbitrary data type processing](chapter_06/recipe_01/README.md)
 - [2. Making timers and processing timer events as tasks](chapter_06/recipe_02/README.md)
-- [3. Network communication as a task](chapter_06/recipe_03/README.md)
+- [3. Network communication as a task and Accepting incoming connections](chapter_06/recipe_03/README.md)
+- [4. Executing different tasks in parallel](chapter_06/recipe_04/README.md)
 
