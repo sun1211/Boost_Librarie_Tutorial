@@ -96,5 +96,6 @@ sudo ./b2 toolset=gcc -j4 install
 - [3. Network communication as a task and Accepting incoming connections](chapter_06/recipe_03/README.md)
 - [4. Executing different tasks in parallel](chapter_06/recipe_04/README.md)
 - [5. Pipeline tasks processing](chapter_06/recipe_05/README.md)
-- [6. Making a nonblocking barrierg](chapter_06/recipe_06/README.md)
+- [6. Making a nonblocking barrier](chapter_06/recipe_06/README.md)
+- [7. Storing an exception and making a task from it](chapter_06/recipe_07/README.md)
 

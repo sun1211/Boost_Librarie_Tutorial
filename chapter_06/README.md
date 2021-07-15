@@ -6,5 +6,6 @@
 - [4. Executing different tasks in parallel](recipe_04/README.md)
 - [5. Pipeline tasks processing](recipe_05/README.md)
 - [6. Making a nonblocking barrier](recipe_06/README.md)
+- [7. Storing an exception and making a task from it](recipe_07/README.md)
 
 
