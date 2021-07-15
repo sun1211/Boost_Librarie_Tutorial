@@ -98,4 +98,5 @@ sudo ./b2 toolset=gcc -j4 install
 - [5. Pipeline tasks processing](chapter_06/recipe_05/README.md)
 - [6. Making a nonblocking barrier](chapter_06/recipe_06/README.md)
 - [7. Storing an exception and making a task from it](chapter_06/recipe_07/README.md)
+- [8. Getting and processing system signals as tasks](chapter_06/recipe_08/README.md)
 
