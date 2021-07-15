@@ -5,5 +5,6 @@
 - [3. Network communication as a task and Accepting incoming connections](recipe_03/README.md)
 - [4. Executing different tasks in parallel](recipe_04/README.md)
 - [5. Pipeline tasks processing](recipe_05/README.md)
+- [6. Making a nonblocking barrier](recipe_06/README.md)
 
 
