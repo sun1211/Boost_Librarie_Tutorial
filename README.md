@@ -105,5 +105,6 @@ sudo ./b2 toolset=gcc -j4 install
 - [1. Changing cases and case-insensitive comparison](chapter_07/recipe_01/README.md)
 - [2. Matching strings using regular expressions](chapter_07/recipe_02/README.md)
 - [3. Formatting strings using safe printf-like functions](chapter_07/recipe_03/README.md)
+- [4. Replacing and erasing strings](chapter_07/recipe_04/README.md)
 
 
