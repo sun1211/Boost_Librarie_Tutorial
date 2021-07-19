@@ -103,5 +103,6 @@ sudo ./b2 toolset=gcc -j4 install
 ### [Chapter 7: Manipulating Strings](chapter_07/README.md)
 
 - [1. Changing cases and case-insensitive comparison](chapter_07/recipe_01/README.md)
+- [2. Matching strings using regular expressions](chapter_07/recipe_02/README.md)
 
 

@@ -1,4 +1,4 @@
-# CChanging cases and case-insensitive comparison
+# Changing cases and case-insensitive comparison
 
 The second method is not an obvious one. In the second method, we compare the length of strings. If they have the same length, we compare the strings character by character using an instance of the *boost::is_iequal* predicate. The *boost::is_iequal* predicate compares two characters in a case insensitive way.
 
