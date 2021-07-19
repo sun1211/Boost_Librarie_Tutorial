@@ -107,5 +107,6 @@ sudo ./b2 toolset=gcc -j4 install
 - [3. Formatting strings using safe printf-like functions](chapter_07/recipe_03/README.md)
 - [4. Replacing and erasing strings](chapter_07/recipe_04/README.md)
 - [5. Representing a string with two iterators](chapter_07/recipe_05/README.md)
+- [6. Using a reference to string type](chapter_07/recipe_06/README.md)
 
 
