@@ -112,3 +112,4 @@ sudo ./b2 toolset=gcc -j4 install
 ### [Chapter 8: Metaprogramming](chapter_08/README.md)
 
 - [1. Using type vector of types](chapter_08/recipe_01/README.md)
+- [2. Manipulating a vector of types](chapter_08/recipe_02/README.md)
