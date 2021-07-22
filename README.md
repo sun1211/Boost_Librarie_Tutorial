@@ -115,3 +115,4 @@ sudo ./b2 toolset=gcc -j4 install
 - [2. Manipulating a vector of types](chapter_08/recipe_02/README.md)
 - [3. Getting a function's result type at compile time](chapter_08/recipe_03/README.md)
 - [4. Making a higher-order metafunction](chapter_08/recipe_04/README.md)
+- [5. Evaluating metafunctions lazily](chapter_08/recipe_05/README.md)
