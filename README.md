@@ -125,4 +125,5 @@ sudo ./b2 toolset=gcc -j4 install
 - [1. Storing a few elements in a sequence container](chapter_09/recipe_01/README.md)
 - [2. Storing at most N elements in the sequence container](chapter_09/recipe_02/README.md)
 - [3. Comparing strings in an ultra-fast manner](chapter_09/recipe_03/README.md)
+- [4. Using an unordered set and map](chapter_09/recipe_04/README.md)
 
