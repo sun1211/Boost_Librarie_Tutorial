@@ -138,3 +138,4 @@ sudo ./b2 toolset=gcc -j4 install
 - [3. Detecting and bypassing disabled RTTI](chapter_10/recipe_03/README.md)
 - [4. Writing metafunctions using simpler methods](chapter_10/recipe_04/README.md)
 - [5. Reducing code size and increasing performance of user-defined types (UDTs) in C++11](chapter_10/recipe_05/README.md)
+- [6. The portable way to export and import functions and classes](chapter_10/recipe_06/README.md)
