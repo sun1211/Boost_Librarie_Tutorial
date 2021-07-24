@@ -129,4 +129,5 @@ sudo ./b2 toolset=gcc -j4 install
 - [5. Making a map, where value is also a key](chapter_09/recipe_05/README.md)
 - [6. Using multi-index containers](chapter_09/recipe_06/README.md)
 - [7. Getting benefits of a single linked list and memory pool](chapter_09/recipe_07/README.md)
+- [8. Using flat associative containers](chapter_09/recipe_08/README.md)
 
