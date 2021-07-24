@@ -4,6 +4,7 @@
 - [2. Storing at most N elements in the sequence container](recipe_02/README.md)
 - [3. Comparing strings in an ultra-fast manner](recipe_03/README.md)
 - [4. Using an unordered set and map](recipe_04/README.md)
+- [5. Making a map, where value is also a key](recipe_05/README.md)
 
 
 
