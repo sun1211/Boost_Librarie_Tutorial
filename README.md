@@ -117,3 +117,4 @@ sudo ./b2 toolset=gcc -j4 install
 - [4. Making a higher-order metafunction](chapter_08/recipe_04/README.md)
 - [5. Evaluating metafunctions lazily](chapter_08/recipe_05/README.md)
 - [6. Converting all the tuple elements to strings](chapter_08/recipe_06/README.md)
+- [7. Splitting tuples](chapter_08/recipe_07/README.md)

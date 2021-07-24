@@ -6,6 +6,7 @@
 - [4. Making a higher-order metafunction](recipe_04/README.md)
 - [5. Evaluating metafunctions lazily](recipe_05/README.md)
 - [6. Converting all the tuple elements to strings](recipe_06/README.md)
+- [7. Splitting tuples](recipe_07/README.md)
 
 
 
