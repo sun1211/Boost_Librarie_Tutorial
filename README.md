@@ -147,3 +147,4 @@ sudo ./b2 toolset=gcc -j4 install
 - [2. Erasing and creating files and directories](chapter_11/recipe_02/README.md)
 - [3. Writing and using plugins](chapter_11/recipe_03/README.md)
 - [4. Getting backtrace – current call sequence](chapter_11/recipe_04/README.md)
+- [5. Passing data quickly from one process to another](chapter_11/recipe_05/README.md)

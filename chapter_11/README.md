@@ -4,3 +4,4 @@
 - [2. Erasing and creating files and directories](recipe_02/README.md)
 - [3. Writing and using plugins](recipe_03/README.md)
 - [4. Getting backtrace – current call sequence](recipe_04/README.md)
+- [5. Passing data quickly from one process to another](recipe_05/README.md)
