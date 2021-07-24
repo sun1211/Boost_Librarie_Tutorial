@@ -123,3 +123,5 @@ sudo ./b2 toolset=gcc -j4 install
 ### [Chapter 9: Containers](chapter_09/README.md)
 
 - [1. Storing a few elements in a sequence container](chapter_09/recipe_01/README.md)
+- [2. Storing at most N elements in the sequence container](chapter_09/recipe_02/README.md)
+
