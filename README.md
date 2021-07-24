@@ -145,3 +145,4 @@ sudo ./b2 toolset=gcc -j4 install
 
 - [1. Listing files in a directory](chapter_11/recipe_01/README.md)
 - [2. Erasing and creating files and directories](chapter_11/recipe_02/README.md)
+- [3. Writing and using plugins](chapter_11/recipe_03/README.md)
