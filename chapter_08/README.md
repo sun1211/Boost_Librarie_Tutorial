@@ -7,6 +7,7 @@
 - [5. Evaluating metafunctions lazily](recipe_05/README.md)
 - [6. Converting all the tuple elements to strings](recipe_06/README.md)
 - [7. Splitting tuples](recipe_07/README.md)
+- [8. Manipulating heterogeneous containers in C++14](recipe_08/README.md)
 
 
 

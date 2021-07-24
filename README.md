@@ -118,3 +118,4 @@ sudo ./b2 toolset=gcc -j4 install
 - [5. Evaluating metafunctions lazily](chapter_08/recipe_05/README.md)
 - [6. Converting all the tuple elements to strings](chapter_08/recipe_06/README.md)
 - [7. Splitting tuples](chapter_08/recipe_07/README.md)
+- [8. Manipulating heterogeneous containers in C++14](chapter_08/recipe_08/README.md)
