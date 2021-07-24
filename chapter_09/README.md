@@ -5,6 +5,7 @@
 - [3. Comparing strings in an ultra-fast manner](recipe_03/README.md)
 - [4. Using an unordered set and map](recipe_04/README.md)
 - [5. Making a map, where value is also a key](recipe_05/README.md)
+- [6. Using multi-index containers](recipe_06/README.md)
 
 
 

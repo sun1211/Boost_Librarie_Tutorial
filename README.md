@@ -127,4 +127,5 @@ sudo ./b2 toolset=gcc -j4 install
 - [3. Comparing strings in an ultra-fast manner](chapter_09/recipe_03/README.md)
 - [4. Using an unordered set and map](chapter_09/recipe_04/README.md)
 - [5. Making a map, where value is also a key](chapter_09/recipe_05/README.md)
+- [6. Using multi-index containers](chapter_09/recipe_06/README.md)
 
