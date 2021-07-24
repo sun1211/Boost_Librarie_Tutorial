@@ -119,3 +119,7 @@ sudo ./b2 toolset=gcc -j4 install
 - [6. Converting all the tuple elements to strings](chapter_08/recipe_06/README.md)
 - [7. Splitting tuples](chapter_08/recipe_07/README.md)
 - [8. Manipulating heterogeneous containers in C++14](chapter_08/recipe_08/README.md)
+
+### [Chapter 9: Containers](chapter_09/README.md)
+
+- [1. Storing a few elements in a sequence container](chapter_09/recipe_01/README.md)
