@@ -144,3 +144,4 @@ sudo ./b2 toolset=gcc -j4 install
 ### [Chapter 11: Working with the System](chapter_11/README.md)
 
 - [1. Listing files in a directory](chapter_11/recipe_01/README.md)
+- [2. Erasing and creating files and directories](chapter_11/recipe_02/README.md)
