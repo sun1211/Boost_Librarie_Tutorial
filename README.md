@@ -131,3 +131,9 @@ sudo ./b2 toolset=gcc -j4 install
 - [7. Getting benefits of a single linked list and memory pool](chapter_09/recipe_07/README.md)
 - [8. Using flat associative containers](chapter_09/recipe_08/README.md)
 
+### [Chapter 10: Gathering Platform and Compiler Information](chapter_10/README.md)
+
+- [1. Detecting an OS and compiler](chapter_10/recipe_01/README.md)
+- [2. Detecting int128 support](chapter_10/recipe_02/README.md)
+- [3. Detecting and bypassing disabled RTTI](chapter_10/recipe_03/README.md)
+- [4. Writing metafunctions using simpler methods](chapter_10/recipe_04/README.md)
