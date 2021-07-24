@@ -6,6 +6,7 @@
 - [4. Using an unordered set and map](recipe_04/README.md)
 - [5. Making a map, where value is also a key](recipe_05/README.md)
 - [6. Using multi-index containers](recipe_06/README.md)
+- [7. Getting benefits of a single linked list and memory pool](recipe_07/README.md)
 
 
 
