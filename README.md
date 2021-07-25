@@ -156,3 +156,9 @@ sudo ./b2 toolset=gcc -j4 install
 ### [Chapter 12: Scratching the Tip of the Iceberg](chapter_12/README.md)
 
 - [1. Working with graphs](chapter_12/recipe_01/README.md)
+- [2. Visualizing graphs](chapter_12/recipe_02/README.md)
+- [3. Using a true random number generator](chapter_12/recipe_03/README.md)
+- [4. Using portable math functions](chapter_12/recipe_04/README.md)
+- [5. Writing test cases](chapter_12/recipe_05/README.md)
+- [6. Combining multiple test cases in one test module](chapter_12/recipe_06/README.md)
+- [7. Manipulating images](chapter_12/recipe_07/README.md)
