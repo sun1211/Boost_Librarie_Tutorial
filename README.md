@@ -152,3 +152,7 @@ sudo ./b2 toolset=gcc -j4 install
 - [7. Using pointers in a shared memory](chapter_11/recipe_07/README.md)
 - [8. The fastest way to read files](chapter_11/recipe_08/README.md)
 - [9. Coroutines - saving the state and postponing the execution](chapter_11/recipe_09/README.md)
+
+### [Chapter 12: Scratching the Tip of the Iceberg](chapter_12/README.md)
+
+- [1. Working with graphs](chapter_12/recipe_01/README.md)
