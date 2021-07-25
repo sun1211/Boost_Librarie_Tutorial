@@ -148,3 +148,7 @@ sudo ./b2 toolset=gcc -j4 install
 - [3. Writing and using plugins](chapter_11/recipe_03/README.md)
 - [4. Getting backtrace – current call sequence](chapter_11/recipe_04/README.md)
 - [5. Passing data quickly from one process to another](chapter_11/recipe_05/README.md)
+- [6. Syncing interprocess communications](chapter_11/recipe_06/README.md)
+- [7. Using pointers in a shared memory](chapter_11/recipe_07/README.md)
+- [8. The fastest way to read files](chapter_11/recipe_08/README.md)
+- [9. Coroutines - saving the state and postponing the execution](chapter_11/recipe_09/README.md)
